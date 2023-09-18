@@ -20,6 +20,7 @@
 
   ![Python](https://img.shields.io/badge/Python-5C2D91?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  [![React.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=777BB4)](https://reactjs.org/)
   [![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=777BB4)](https://nodejs.org/)
   ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
