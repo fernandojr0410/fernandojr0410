@@ -5,7 +5,7 @@
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
   📚 Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
-  Desenvolvedor Full Stack - Python | Javascript | ReactJS | NodeJS | SQL Server | MySQL | HTML5 | CSS | Git
+  Desenvolvedor Full Stack - Python | Javascript | Vite | ReactJS | Tailwind CSS | NodeJS | SQL Server | MySQL | HTML5 | CSS | Git
 </p>
 
 <h3> :rocket: &nbsp;Soft Skills </h3>
@@ -20,7 +20,9 @@
 
   ![Python](https://img.shields.io/badge/Python-5C2D91?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
   [![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   [![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=777BB4)](https://nodejs.org/)
   ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -42,6 +44,8 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
