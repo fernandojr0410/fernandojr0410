@@ -5,7 +5,7 @@
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
   📚 Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
-  Desenvolvedor Full Stack - Python | Javascript | Vite | ReactJS | Tailwind CSS | NodeJS | SQL Server | MySQL | HTML5 | CSS | Git
+  Full Stack developer - VueJS | NestJS | Vite | ReactJS | ReactNative | TypeScript | Tailwind CSS | NodeJS | Docker | Prisma ORM | SQL Server | MySQL | PostgreSQL | Git.
 </p>
 
 <h3> :rocket: &nbsp;Soft Skills </h3>
@@ -18,23 +18,30 @@
 
 **Aplicações e Dados**
 
-  ![Python](https://img.shields.io/badge/Python-5C2D91?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
-  [![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
-  [![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=777BB4)](https://nodejs.org/)
-  ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS5](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
+[![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
+[![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933)](https://nodejs.org/)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-333333?style=flat&logo=prisma&logoColor=2D3748)
+![SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
+
   
 
   **Frameworks**
 
+  [![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)](https://vuejs.org/)
+  [![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
   [![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-  [![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=777BB4)](https://nodejs.org/)
+  [![React Native](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
   
 <hr>
 
@@ -44,14 +51,14 @@
  
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0079BF)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F24E1E)
+
   
 <br/>
 
