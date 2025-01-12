@@ -3,7 +3,7 @@
 
 <p align="left"> 
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
-  📚 Estudante de <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
+  📚 Formado em <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
   Full Stack developer - VueJS | NestJS | Vite | ReactJS | ReactNative | TypeScript | Tailwind CSS | NodeJS | Docker | Prisma ORM | SQL Server | MySQL | PostgreSQL | Git.
 </p>
