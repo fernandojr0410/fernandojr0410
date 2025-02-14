@@ -5,7 +5,7 @@
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
   📚 Formado em <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
-  Full Stack developer - VueJS | NestJS | Vite | ReactJS | ReactNative | TypeScript | Tailwind CSS | NodeJS | Docker | Prisma ORM | SQL Server | MySQL | PostgreSQL | Git.
+  Full Stack developer - PHP | VueJS | NestJS | Vite | ReactJS | ReactNative | TypeScript | Tailwind CSS | NodeJS | Docker | Prisma ORM | SQL Server | MySQL | PostgreSQL | Git.
 </p>
 
 <h3> :rocket: &nbsp;Soft Skills </h3>
@@ -18,6 +18,7 @@
 
 **Aplicações e Dados**
 
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
 ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 ![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
