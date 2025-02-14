@@ -19,6 +19,8 @@
 **Aplicações e Dados**
 
 ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4)
+![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
 ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 ![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
 ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
@@ -33,8 +35,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
-![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=239120)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
 
 
   **Frameworks**
