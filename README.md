@@ -41,7 +41,7 @@
   [![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)](https://nestjs.com/)
   [![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![React Native](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
   
 <hr>
 
