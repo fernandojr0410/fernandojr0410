@@ -5,7 +5,7 @@
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
   📚 Formado em <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
-  Full Stack developer - PHP | Flutter | Dart | VueJS | NestJS | Vite | ReactJS | TypeScript | Tailwind CSS | NodeJS | Docker | Prisma ORM | SQL Server | MySQL | PostgreSQL | Git.
+  Full Stack Developer - React Native | VueJS | NestJS | ReactJS | TypeScript | PHP | Tailwind | Prisma ORM | SQL Server | MySQL | PostgreSQL | Docker | Git.
 </p>
 
 <h3> :rocket: &nbsp;Soft Skills </h3>
