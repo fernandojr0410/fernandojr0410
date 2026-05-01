@@ -5,7 +5,7 @@
   👋 Olá, seja bem-vindo ao meu perfil! 😁<br>
   📚 Formado em <strong>Engenharia de Software</strong> na <strong>FAG - Cascavel/PR</strong>.<br>
   Focado nos estudos de Full Stack, conhecimento em:<br>
-  Full Stack Developer - React Native | VueJS | NestJS | ReactJS | TypeScript | PHP | Tailwind | Prisma ORM | SQL Server | MySQL | PostgreSQL | Docker | Git.
+  Full Stack Developer - React Native | VueJS | NestJS | FastifyJS | ReactJS | TypeScript | PHP | Tailwind | Prisma ORM | SQL Server | MySQL | PostgreSQL | Docker | Git.
 </p>
 
 <h3> :rocket: &nbsp;Soft Skills </h3>
@@ -23,6 +23,7 @@
 ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=0175C2)
 ![Vue.js](https://img.shields.io/badge/Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
 ![NestJS](https://img.shields.io/badge/NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![Fastify](https://img.shields.io/badge/Fastify-333333?style=flat&logo=fastify&logoColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-333333?style=flat&logo=vite&logoColor=646CFF)
 [![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
